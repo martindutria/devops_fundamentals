@@ -1,7 +1,8 @@
 # Screenshots
 
 ## windows cmd vboxmanage
-<!-- ![Vscode logo](./vscode.png "vscode") -->
+<!-- ![Vboxmanage screen](./vmanagebox windows.png "vbm screen") -->
 
 ## virtualbox screen results
-<!-- ![Vscode logo](./vscode.png "vscode") -->
+<!-- ![Virtualbox screen](./vm screen.png "vb screen") -->
+
