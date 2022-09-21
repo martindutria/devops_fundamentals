@@ -1,8 +1,8 @@
 # Screenshots
 
 ## windows cmd vboxmanage
-![](./vmanagebox windows.png)
+![](devops_fundamentals/class02/vmanagebox windows.png)
 
 ## virtualbox screen results
-![](./vm screen.png)
+![](devops_fundamentals/class02/vm screen.png)
 
